@@ -1,0 +1,23 @@
+{
+  "name": "node_tset",
+  "version": "1.0.0",
+  "description": "This is a test node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunbocheng/node.js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "chengyunbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunbocheng/node.js/issues",
+    "email": "2484720940@qq.com"
+  },
+  "homepage": "https://github.com/yunbocheng/node.js#readme"
+}
